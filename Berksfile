@@ -7,4 +7,4 @@ cookbook 'conda', github: "logicalclocks/conda-chef", branch: "1.0"
 
 cookbook 'ulimit', github: "logicalclocks/chef-ulimit", branch: "1.0"
 
-cookbook 'ark', '= 4.0.0'
+cookbook 'ark', '= 5.0.0'
